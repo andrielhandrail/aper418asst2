@@ -1,0 +1,7 @@
+Flask==1.1.2
+flask-wtf==0.14.2
+python-dotenv==0.13.0
+Werkzeug==0.16.0
+pytest==5.4.3
+password-validator==1.0
+Jinja2==2.11.2
